@@ -1,0 +1,3 @@
+[submodule "submodules/JsonApiDotNetCore"]
+	path = submodules/JsonApiDotNetCore
+	url = https://github.com/json-api-dotnet/JsonApiDotNetCore
