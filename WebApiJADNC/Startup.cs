@@ -1,7 +1,8 @@
-using JsonApiDotNetCore;
-using JsonApiDotNetCore.Extensions;
+using JsonApiDotNetCore.Configuration;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using WebApiJADNC.Data;
 using WebApiJADNC.Models;

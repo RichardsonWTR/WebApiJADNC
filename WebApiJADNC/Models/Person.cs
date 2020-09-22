@@ -1,4 +1,5 @@
-﻿using JsonApiDotNetCore.Models;
+﻿using JsonApiDotNetCore.Resources;
+using JsonApiDotNetCore.Resources.Annotations;
 using System.Collections.Generic;
 
 namespace WebApiJADNC.Models
